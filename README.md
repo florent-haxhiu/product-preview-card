@@ -14,8 +14,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -32,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/florent-haxhiu/product-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Site](https://florent-haxhiu.github.io/product-preview-card/)
 
 ## My process
 
@@ -50,7 +48,7 @@ I want to continue working on my responsive design and mobile-first workflow as 
 
 ### Useful resources
 
-- [Mozilla Developer Web docs](https://developer.mozilla.org/en-US/docs/Web/CSS) - This helped me use CSS better as they're documentation is just great and in-depth.
+- [Mozilla Developer Web docs](https://developer.mozilla.org/en-US/docs/Web/CSS) - This helped me use CSS better as the documentation is just great and in-depth.
 
 ## Author
 

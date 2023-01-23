@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github Repo](https://github.com/florent-haxhiu/product-preview-card)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -50,9 +50,9 @@ I want to continue working on my responsive design and mobile-first workflow as 
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS) - This helped me use CSS better as they're documentation is just great and in-depth.
+- [Mozilla Developer Web docs](https://developer.mozilla.org/en-US/docs/Web/CSS) - This helped me use CSS better as they're documentation is just great and in-depth.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [florent-haxhiu](https://www.florenthaxhiu.com)
 - Frontend Mentor - [@florent-haxhiu](https://www.frontendmentor.io/profile/florent-haxhiu)
